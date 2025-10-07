@@ -1,6 +1,8 @@
 # 🧠 Complete DSA Patterns Guide (Striver SDE Sheet + LeetCode Links)
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b32e824c-a938-4301-bb8b-8299e64facdb" />
+
 
 ## 📌 Arrays / Strings
 
